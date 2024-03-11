@@ -1,0 +1,1351 @@
+time,location,model,image,r2,rep,Location,Date,Image
+TP1,Scottsbluff,RF,Satellite,0.0083195817998916,1,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,PSLR,Satellite,0.0237851055103153,1,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LR,Satellite,0.00329119655550879,1,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LASSO,Satellite,,1,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,SVM,Satellite,0.00594098406197293,1,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,GB,Satellite,0.0383772878403778,1,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,RF,Satellite,0.137694958815521,2,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,PSLR,Satellite,0.0446103475942548,2,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LR,Satellite,0.0182695990977561,2,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LASSO,Satellite,,2,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,SVM,Satellite,0.0859915770217388,2,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,GB,Satellite,0.108211381063165,2,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,RF,Satellite,0.00896985280826459,3,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,PSLR,Satellite,0.000107241159997881,3,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LR,Satellite,0.0352660805058142,3,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LASSO,Satellite,,3,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,SVM,Satellite,0.00386503872792943,3,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,GB,Satellite,0.0285213745579634,3,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,RF,Satellite,0.0338217417051757,4,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,PSLR,Satellite,0.00020964472238177,4,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LR,Satellite,0.00489343824693934,4,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LASSO,Satellite,,4,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,SVM,Satellite,0.0162883143924388,4,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,GB,Satellite,0.0406997255785081,4,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,RF,Satellite,3.3547010462848E-05,5,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,PSLR,Satellite,0.0313157305188304,5,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LR,Satellite,0.0105361130194693,5,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,LASSO,Satellite,,5,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,SVM,Satellite,0.0219616854253181,5,Scottsbluff,2022-07-04,Satellite
+TP1,Scottsbluff,GB,Satellite,0.0129864980685543,5,Scottsbluff,2022-07-04,Satellite
+TP2,Scottsbluff,RF,Satellite,0.0105139603990977,1,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,PSLR,Satellite,0.0507351128181462,1,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LR,Satellite,0.00142851848642779,1,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LASSO,Satellite,,1,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,SVM,Satellite,0.0393994631755844,1,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,GB,Satellite,0.0242842904758387,1,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,RF,Satellite,0.283366312458396,2,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,PSLR,Satellite,0.341185891960266,2,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LR,Satellite,0.226949580193532,2,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LASSO,Satellite,,2,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,SVM,Satellite,0.288309798598651,2,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,GB,Satellite,0.236701840870838,2,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,RF,Satellite,0.0434175345552682,3,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,PSLR,Satellite,0.0684733955809965,3,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LR,Satellite,0.0506773255380979,3,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LASSO,Satellite,0.0162039722700785,3,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,SVM,Satellite,0.0315386654088249,3,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,GB,Satellite,0.0163879219417728,3,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,RF,Satellite,0.05017336531937,4,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,PSLR,Satellite,0.131867906402177,4,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LR,Satellite,0.0615040304468779,4,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LASSO,Satellite,,4,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,SVM,Satellite,0.0459594417448608,4,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,GB,Satellite,0.021738754300272,4,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,RF,Satellite,0.161946684548079,5,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,PSLR,Satellite,0.170082793632619,5,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LR,Satellite,0.119821369771446,5,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,LASSO,Satellite,,5,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,SVM,Satellite,0.128996050854126,5,Scottsbluff,2022-07-17,Satellite
+TP2,Scottsbluff,GB,Satellite,0.132749531892616,5,Scottsbluff,2022-07-17,Satellite
+TP4,Scottsbluff,RF,Satellite,0.0890644917527577,1,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,PSLR,Satellite,0.137510108717519,1,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LR,Satellite,0.000147250407302331,1,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LASSO,Satellite,0.12589296834801,1,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,SVM,Satellite,0.103239890681639,1,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,GB,Satellite,0.0235405331200868,1,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,RF,Satellite,0.398365812964756,2,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,PSLR,Satellite,0.294248808998852,2,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LR,Satellite,0.0739786572406472,2,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LASSO,Satellite,,2,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,SVM,Satellite,0.337111242907551,2,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,GB,Satellite,0.393887289289679,2,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,RF,Satellite,0.0456451564554011,3,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,PSLR,Satellite,0.095356735006513,3,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LR,Satellite,0.0901653713402862,3,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LASSO,Satellite,,3,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,SVM,Satellite,0.0761505040881558,3,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,GB,Satellite,0.0202708210602057,3,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,RF,Satellite,0.228429889879938,4,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,PSLR,Satellite,0.262550847663813,4,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LR,Satellite,0.187059413581436,4,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LASSO,Satellite,,4,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,SVM,Satellite,0.241645658777132,4,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,GB,Satellite,0.212277144902844,4,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,RF,Satellite,0.12027558767137,5,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,PSLR,Satellite,0.125388713468941,5,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LR,Satellite,0.126482477384254,5,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,LASSO,Satellite,,5,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,SVM,Satellite,0.18726897382037,5,Scottsbluff,2022-08-18,Satellite
+TP4,Scottsbluff,GB,Satellite,0.0894105840040404,5,Scottsbluff,2022-08-18,Satellite
+TP3,Scottsbluff,RF,Satellite,0.112460608350823,1,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,PSLR,Satellite,0.0465896667090356,1,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LR,Satellite,0.0507128090934326,1,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LASSO,Satellite,,1,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,SVM,Satellite,0.0714217825614614,1,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,GB,Satellite,0.0671035848692991,1,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,RF,Satellite,0.216754258825167,2,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,PSLR,Satellite,0.301571123068799,2,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LR,Satellite,0.00126721744574432,2,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LASSO,Satellite,,2,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,SVM,Satellite,0.261166544424685,2,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,GB,Satellite,0.184812404103593,2,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,RF,Satellite,0.121811738782133,3,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,PSLR,Satellite,0.0954359253705453,3,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LR,Satellite,0.0255164772947844,3,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LASSO,Satellite,,3,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,SVM,Satellite,0.0999754642695205,3,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,GB,Satellite,0.156473479577091,3,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,RF,Satellite,0.173172055757532,4,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,PSLR,Satellite,0.0804033513566426,4,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LR,Satellite,0.00108282680707479,4,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LASSO,Satellite,,4,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,SVM,Satellite,0.116016645680316,4,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,GB,Satellite,0.0933735408096381,4,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,RF,Satellite,0.187747651267465,5,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,PSLR,Satellite,0.133531419729688,5,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LR,Satellite,0.0355452028329826,5,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,LASSO,Satellite,,5,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,SVM,Satellite,0.229587721618051,5,Scottsbluff,2022-08-07,Satellite
+TP3,Scottsbluff,GB,Satellite,0.073496379705796,5,Scottsbluff,2022-08-07,Satellite
+TP6,Scottsbluff,RF,Satellite,0.16234430721434,1,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,PSLR,Satellite,0.205499219969156,1,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LR,Satellite,0.0082411795473027,1,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LASSO,Satellite,,1,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,SVM,Satellite,0.15640155549882,1,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,GB,Satellite,0.105962891618625,1,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,RF,Satellite,0.287389673587959,2,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,PSLR,Satellite,0.268440603712625,2,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LR,Satellite,0.0581085389406362,2,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LASSO,Satellite,,2,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,SVM,Satellite,0.238717647559235,2,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,GB,Satellite,0.246923741752362,2,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,RF,Satellite,0.0762270749309335,3,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,PSLR,Satellite,0.123251360920594,3,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LR,Satellite,0.154287277305277,3,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LASSO,Satellite,,3,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,SVM,Satellite,0.120248557458002,3,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,GB,Satellite,0.0314326358523266,3,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,RF,Satellite,0.267255756339103,4,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,PSLR,Satellite,0.218243111520485,4,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LR,Satellite,0.153089797132342,4,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LASSO,Satellite,,4,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,SVM,Satellite,0.216757807163946,4,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,GB,Satellite,0.183439522303059,4,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,RF,Satellite,0.186322051336597,5,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,PSLR,Satellite,0.199568534141645,5,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LR,Satellite,0.184553866270168,5,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,LASSO,Satellite,,5,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,SVM,Satellite,0.199069022313983,5,Scottsbluff,2022-09-24,Satellite
+TP6,Scottsbluff,GB,Satellite,0.148702274569959,5,Scottsbluff,2022-09-24,Satellite
+TP5,Scottsbluff,RF,Satellite,0.101586601652587,1,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,PSLR,Satellite,0.138968519731154,1,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LR,Satellite,0.140907808039241,1,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LASSO,Satellite,,1,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,SVM,Satellite,0.136861382567869,1,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,GB,Satellite,0.100844757436561,1,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,RF,Satellite,0.3713613040715,2,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,PSLR,Satellite,0.376437526455617,2,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LR,Satellite,0.0883499691135183,2,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LASSO,Satellite,,2,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,SVM,Satellite,0.329374616493632,2,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,GB,Satellite,0.294495106608479,2,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,RF,Satellite,0.110910411753437,3,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,PSLR,Satellite,0.15161036341637,3,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LR,Satellite,0.130271636416732,3,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LASSO,Satellite,,3,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,SVM,Satellite,0.117014668946588,3,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,GB,Satellite,0.0600461040159034,3,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,RF,Satellite,0.242979659625945,4,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,PSLR,Satellite,0.268000979866376,4,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LR,Satellite,0.00229559959750344,4,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LASSO,Satellite,,4,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,SVM,Satellite,0.240261108107041,4,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,GB,Satellite,0.221318668159207,4,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,RF,Satellite,0.0987021105709377,5,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,PSLR,Satellite,0.180517004301068,5,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LR,Satellite,0.136602592859987,5,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,LASSO,Satellite,,5,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,SVM,Satellite,0.204318166073503,5,Scottsbluff,2022-09-09,Satellite
+TP5,Scottsbluff,GB,Satellite,0.0361392295530567,5,Scottsbluff,2022-09-09,Satellite
+TP3,Scottsbluff,RF,UAV,0.0843017389304253,1,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,PLSR,UAV,0.0688532133139718,1,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LR,UAV,0.00667976768078994,1,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LASSO,UAV,0.204451270508451,1,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,SVM,UAV,0.0717654757867101,1,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,GB,UAV,0.212797610328914,1,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,RF,UAV,0.288220262489498,2,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,PLSR,UAV,0.44924677506865,2,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LR,UAV,0.26552675528764,2,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LASSO,UAV,0.453567044706992,2,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,SVM,UAV,0.323080130532611,2,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,GB,UAV,0.311002209116101,2,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,RF,UAV,0.0823970261170894,3,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,PLSR,UAV,0.10048562432968,3,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LR,UAV,0.00901091887735902,3,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LASSO,UAV,0.151908512080315,3,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,SVM,UAV,0.12513485738359,3,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,GB,UAV,0.105808314470245,3,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,RF,UAV,0.130171759532738,4,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,PLSR,UAV,0.225439160923557,4,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LR,UAV,0.0804409033736336,4,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LASSO,UAV,0.192982867227693,4,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,SVM,UAV,0.104990836239625,4,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,GB,UAV,0.146028493578567,4,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,RF,UAV,0.167761878543941,5,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,PLSR,UAV,0.236850661389532,5,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LR,UAV,0.218294912962137,5,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,LASSO,UAV,0.356897657007105,5,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,SVM,UAV,0.0942162195546252,5,Scottsbluff,2022-08-12,UAV
+TP3,Scottsbluff,GB,UAV,0.18196640386925,5,Scottsbluff,2022-08-12,UAV
+TP2,Scottsbluff,RF,UAV,0.00244740199670872,1,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,PLSR,UAV,0.182614302416074,1,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LR,UAV,0.0831903476518502,1,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LASSO,UAV,0.182917621583681,1,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,SVM,UAV,0.000321422846739762,1,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,GB,UAV,0.0197607419336745,1,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,RF,UAV,0.0290590593361517,2,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,PLSR,UAV,0.0540570517057312,2,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LR,UAV,0.0556192112426857,2,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LASSO,UAV,0.115744848964592,2,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,SVM,UAV,0.0190425689609472,2,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,GB,UAV,0.117663270882213,2,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,RF,UAV,0.0111019820377962,3,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,PLSR,UAV,0.0960724463441391,3,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LR,UAV,0.0249327385463973,3,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LASSO,UAV,0.00694800714601162,3,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,SVM,UAV,0.0130518968060999,3,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,GB,UAV,0.0039734514642595,3,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,RF,UAV,0.113378243869534,4,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,PLSR,UAV,0.122119779900273,4,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LR,UAV,0.146999866450218,4,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LASSO,UAV,0.291379431869918,4,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,SVM,UAV,0.193187849027594,4,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,GB,UAV,0.00530476307962388,4,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,RF,UAV,0.078744804019562,5,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,PLSR,UAV,0.346016171300222,5,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LR,UAV,0.133073751527879,5,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,LASSO,UAV,0.276514312802711,5,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,SVM,UAV,0.10500271471938,5,Scottsbluff,2022-07-22,UAV
+TP2,Scottsbluff,GB,UAV,0.0497890271318016,5,Scottsbluff,2022-07-22,UAV
+TP1,Scottsbluff,RF,UAV,0.115822974150433,1,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,PLSR,UAV,0.20504173416451,1,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LR,UAV,0.141464856703036,1,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LASSO,UAV,0.187865191723587,1,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,SVM,UAV,0.134058949135245,1,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,GB,UAV,0.0619686935163545,1,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,RF,UAV,0.321614530798359,2,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,PLSR,UAV,0.461906642149907,2,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LR,UAV,0.0892685342318381,2,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LASSO,UAV,0.386131012433774,2,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,SVM,UAV,0.398326874544842,2,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,GB,UAV,0.369344120447708,2,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,RF,UAV,0.18118921226925,3,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,PLSR,UAV,0.158101085248867,3,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LR,UAV,0.149178923040068,3,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LASSO,UAV,0.154525212923313,3,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,SVM,UAV,0.139664550002076,3,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,GB,UAV,0.122671673299837,3,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,RF,UAV,0.258726912071838,4,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,PLSR,UAV,0.233612450337561,4,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LR,UAV,0.0516294459364238,4,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LASSO,UAV,0.199942326680283,4,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,SVM,UAV,0.194502710020412,4,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,GB,UAV,0.22717311619909,4,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,RF,UAV,0.279537463229263,5,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,PLSR,UAV,0.00627489672892732,5,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LR,UAV,0.00731006317559105,5,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,LASSO,UAV,0.257358071810908,5,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,SVM,UAV,0.237570575566444,5,Scottsbluff,2022-07-08,UAV
+TP1,Scottsbluff,GB,UAV,0.193343479420409,5,Scottsbluff,2022-07-08,UAV
+TP3,Crawfordville,RF,Satellite,0.317202239847488,1,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,PSLR,Satellite,0.280812220635591,1,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LR,Satellite,0.0763004831614317,1,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LASSO,Satellite,,1,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,SVM,Satellite,0.317125796905774,1,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,GB,Satellite,0.201575258065534,1,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,RF,Satellite,0.013318132023563,2,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,PSLR,Satellite,0.0290102867243926,2,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LR,Satellite,0.00805373418530156,2,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LASSO,Satellite,,2,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,SVM,Satellite,0.0192974860654338,2,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,GB,Satellite,0.00673603242938625,2,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,RF,Satellite,0.0633881386542417,3,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,PSLR,Satellite,0.133940311736004,3,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LR,Satellite,0.000708348031303335,3,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LASSO,Satellite,,3,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,SVM,Satellite,0.15886782240974,3,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,GB,Satellite,0.0296127005510763,3,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,RF,Satellite,0.0689722993991895,4,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,PSLR,Satellite,0.0577433092589022,4,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LR,Satellite,0.018878842107492,4,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LASSO,Satellite,0.0471323953735235,4,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,SVM,Satellite,0.0352832412571128,4,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,GB,Satellite,0.0502899449550916,4,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,RF,Satellite,0.248695831369522,5,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,PSLR,Satellite,0.0151093661699623,5,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LR,Satellite,0.0732170991028009,5,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,LASSO,Satellite,0.319129565453064,5,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,SVM,Satellite,0.194193047269,5,Crawfordville,2022-08-02,Satellite
+TP3,Crawfordville,GB,Satellite,0.229153568075703,5,Crawfordville,2022-08-02,Satellite
+TP2,Crawfordville,RF,Satellite,0.390658523326987,1,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,PSLR,Satellite,0.092192030627981,1,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LR,Satellite,0.0247321858475497,1,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LASSO,Satellite,,1,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,SVM,Satellite,0.286154744884287,1,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,GB,Satellite,0.102594452286568,1,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,RF,Satellite,0.0132938178146568,2,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,PSLR,Satellite,0.00229887053310984,2,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LR,Satellite,0.00616324384214533,2,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LASSO,Satellite,0.00971251331316372,2,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,SVM,Satellite,0.000230738772566312,2,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,GB,Satellite,0.0219290496016607,2,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,RF,Satellite,0.0405227374096109,3,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,PSLR,Satellite,0.072996474848932,3,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LR,Satellite,0.065567071290344,3,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LASSO,Satellite,,3,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,SVM,Satellite,0.0738931366484533,3,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,GB,Satellite,0.0290846507878987,3,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,RF,Satellite,0.034998732547367,4,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,PSLR,Satellite,0.0453509919779833,4,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LR,Satellite,0.0216655837870354,4,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LASSO,Satellite,0.041363973145862,4,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,SVM,Satellite,0.0178108792081469,4,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,GB,Satellite,0.0437020666538399,4,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,RF,Satellite,0.0703990332130946,5,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,PSLR,Satellite,0.20497723087583,5,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LR,Satellite,0.0979122751487996,5,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,LASSO,Satellite,,5,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,SVM,Satellite,0.153500499468839,5,Crawfordville,2022-07-20,Satellite
+TP2,Crawfordville,GB,Satellite,0.0529798377902381,5,Crawfordville,2022-07-20,Satellite
+TP4,Crawfordville,RF,Satellite,0.291619523586081,1,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,PSLR,Satellite,0.263761620151878,1,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LR,Satellite,0.00301011441797066,1,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LASSO,Satellite,0.0830595980695822,1,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,SVM,Satellite,0.213415794293953,1,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,GB,Satellite,0.164788362675279,1,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,RF,Satellite,0.0898386308904237,2,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,PSLR,Satellite,0.0407390942411228,2,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LR,Satellite,0.010494503624566,2,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LASSO,Satellite,0.045483692299802,2,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,SVM,Satellite,0.0442405297288064,2,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,GB,Satellite,0.0914177472764441,2,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,RF,Satellite,0.0338563330495933,3,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,PSLR,Satellite,0.0458903832869866,3,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LR,Satellite,0.0457159926512462,3,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LASSO,Satellite,0.101264138909581,3,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,SVM,Satellite,0.0447481505347991,3,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,GB,Satellite,0.0206868858854983,3,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,RF,Satellite,0.113072170477524,4,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,PSLR,Satellite,0.0752278063037494,4,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LR,Satellite,0.0632159777272395,4,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LASSO,Satellite,0.0956630610933841,4,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,SVM,Satellite,0.0595018587796379,4,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,GB,Satellite,0.118366381032532,4,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,RF,Satellite,0.153005191433099,5,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,PSLR,Satellite,0.309980448138031,5,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LR,Satellite,1.38496481438871E-06,5,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,LASSO,Satellite,0.0373435912085714,5,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,SVM,Satellite,0.168233939930217,5,Crawfordville,2022-09-13,Satellite
+TP4,Crawfordville,GB,Satellite,0.0853776366872764,5,Crawfordville,2022-09-13,Satellite
+TP5,Crawfordville,RF,Satellite,0.139067142701355,1,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,PSLR,Satellite,0.167386194117513,1,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LR,Satellite,0.142649160017927,1,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LASSO,Satellite,,1,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,SVM,Satellite,0.0910764716202921,1,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,GB,Satellite,0.0677967588378049,1,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,RF,Satellite,0.018998902084019,2,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,PSLR,Satellite,2.71249217420104E-06,2,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LR,Satellite,0.000748393311490478,2,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LASSO,Satellite,,2,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,SVM,Satellite,0.00299856627378974,2,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,GB,Satellite,0.00304518279908463,2,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,RF,Satellite,0.00207246206266397,3,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,PSLR,Satellite,0.0240899676557687,3,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LR,Satellite,0.0240912901330437,3,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LASSO,Satellite,,3,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,SVM,Satellite,0.00303927941715449,3,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,GB,Satellite,0.000122121057329917,3,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,RF,Satellite,0.015042720801486,4,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,PSLR,Satellite,0.0565716997652119,4,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LR,Satellite,0.000999085627691868,4,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LASSO,Satellite,1.69997572235208E-05,4,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,SVM,Satellite,0.0318492197131288,4,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,GB,Satellite,0.00098365802650209,4,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,RF,Satellite,0.133916784253992,5,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,PSLR,Satellite,0.192638723967855,5,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LR,Satellite,0.003483209720106,5,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,LASSO,Satellite,,5,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,SVM,Satellite,0.158036305292109,5,Crawfordville,2022-10-01,Satellite
+TP5,Crawfordville,GB,Satellite,0.0195686214833612,5,Crawfordville,2022-10-01,Satellite
+TP1,Crawfordville,RF,Satellite,0.0461947376262567,1,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,PSLR,Satellite,0.0801077409881074,1,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LR,Satellite,0.0801043731817361,1,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LASSO,Satellite,0.0722440680897664,1,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,SVM,Satellite,0.024373464788953,1,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,GB,Satellite,0.0372776640965717,1,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,RF,Satellite,0.041192109684592,2,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,PSLR,Satellite,0.0567793075569842,2,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LR,Satellite,0.00088889089739583,2,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LASSO,Satellite,0.0432005766414806,2,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,SVM,Satellite,0.0726693615667922,2,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,GB,Satellite,0.00959283254456809,2,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,RF,Satellite,0.105177059891346,3,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,PSLR,Satellite,0.152277705739865,3,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LR,Satellite,0.0194800163007439,3,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LASSO,Satellite,0.139019229874579,3,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,SVM,Satellite,0.103791510611409,3,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,GB,Satellite,0.0623398855381211,3,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,RF,Satellite,0.046358326853824,4,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,PSLR,Satellite,0.162651981665166,4,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LR,Satellite,0.0173007679960458,4,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LASSO,Satellite,0.147286110909324,4,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,SVM,Satellite,0.0570903913471744,4,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,GB,Satellite,0.0631211443084748,4,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,RF,Satellite,0.188213096066949,5,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,PSLR,Satellite,0.184425914796443,5,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LR,Satellite,0.0391899432093239,5,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,LASSO,Satellite,0.201357864951235,5,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,SVM,Satellite,0.235662097576209,5,Crawfordville,2022-07-10,Satellite
+TP1,Crawfordville,GB,Satellite,0.0992746436149124,5,Crawfordville,2022-07-10,Satellite
+TP6,Crawfordville,RF,Satellite,0.158084230221008,1,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,PSLR,Satellite,0.208003416676519,1,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LR,Satellite,0.0318956992922423,1,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LASSO,Satellite,,1,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,SVM,Satellite,0.142247493008206,1,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,GB,Satellite,0.120471821782162,1,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,RF,Satellite,0.226081248987043,2,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,PSLR,Satellite,0.21052562584758,2,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LR,Satellite,0.0330418233980094,2,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LASSO,Satellite,,2,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,SVM,Satellite,0.191429295637413,2,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,GB,Satellite,0.159311390033896,2,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,RF,Satellite,0.0736671665296307,3,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,PSLR,Satellite,0.021215846559881,3,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LR,Satellite,0.02317370910715,3,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LASSO,Satellite,,3,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,SVM,Satellite,0.101155688263748,3,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,GB,Satellite,0.0906038515190641,3,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,RF,Satellite,0.171896271878638,4,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,PSLR,Satellite,0.140890604356787,4,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LR,Satellite,0.0160717794398948,4,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LASSO,Satellite,,4,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,SVM,Satellite,0.162716912037563,4,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,GB,Satellite,0.104503690614173,4,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,RF,Satellite,0.083212992830349,5,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,PSLR,Satellite,0.170843211455526,5,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LR,Satellite,0.0071578197289247,5,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,LASSO,Satellite,,5,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,SVM,Satellite,0.0885804392167311,5,Crawfordville,2022-10-09,Satellite
+TP6,Crawfordville,GB,Satellite,0.109316984173417,5,Crawfordville,2022-10-09,Satellite
+TP3,Crawfordville,RF,UAV,0.260565087694888,1,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,PLSR,UAV,0.194701763080771,1,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LR,UAV,0.388304018261647,1,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LASSO,UAV,0.3273476174846,1,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,SVM,UAV,0.136936325554808,1,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,GB,UAV,0.221363635539165,1,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,RF,UAV,0.0819878387581151,2,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,PLSR,UAV,0.0737741623537772,2,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LR,UAV,0.089242996507797,2,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LASSO,UAV,0.0566135426193532,2,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,SVM,UAV,0.0735398652997546,2,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,GB,UAV,0.0649785529767247,2,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,RF,UAV,0.0703525367864683,3,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,PLSR,UAV,0.163800233972874,3,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LR,UAV,0.165469558729356,3,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LASSO,UAV,0.124054310028148,3,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,SVM,UAV,0.0626055322220754,3,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,GB,UAV,0.0328626150648832,3,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,RF,UAV,0.209596359768042,4,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,PLSR,UAV,0.452205523161937,4,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LR,UAV,0.416853459247423,4,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LASSO,UAV,0.419641633534699,4,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,SVM,UAV,0.151712729115733,4,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,GB,UAV,0.145648717308078,4,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,RF,UAV,0.1158891908586,5,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,PLSR,UAV,0.0937052511856702,5,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LR,UAV,0.324617128390601,5,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,LASSO,UAV,0.305189402336739,5,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,SVM,UAV,0.0419733399183457,5,Crawfordville,2022-08-11,UAV
+TP3,Crawfordville,GB,UAV,0.108083859797474,5,Crawfordville,2022-08-11,UAV
+TP2,Crawfordville,RF,UAV,0.0845703355322628,1,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,PLSR,UAV,0.0992708693338256,1,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LR,UAV,0.106200708354512,1,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LASSO,UAV,0.180944872157928,1,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,SVM,UAV,0.00964804904442585,1,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,GB,UAV,0.0876271710813845,1,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,RF,UAV,0.000563153393872628,2,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,PLSR,UAV,0.0177325361761477,2,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LR,UAV,0.0206650447421607,2,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LASSO,UAV,0.0863872260731288,2,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,SVM,UAV,0.00410373123788699,2,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,GB,UAV,0.000757394512115943,2,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,RF,UAV,0.00184643245117989,3,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,PLSR,UAV,0.0858216264539019,3,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LR,UAV,0.0574329440632335,3,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LASSO,UAV,0.0111313711414765,3,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,SVM,UAV,0.00534661953120628,3,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,GB,UAV,0.00441602366020166,3,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,RF,UAV,0.0172721241336066,4,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,PLSR,UAV,0.00216622403853264,4,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LR,UAV,0.0746153099781577,4,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LASSO,UAV,0.000952987937685732,4,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,SVM,UAV,7.05451652682664E-05,4,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,GB,UAV,0.00230629754286817,4,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,RF,UAV,0.07035506028042,5,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,PLSR,UAV,0.143636071248457,5,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LR,UAV,0.143636071248496,5,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,LASSO,UAV,0.184272324793029,5,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,SVM,UAV,0.00280792489735151,5,Crawfordville,2022-07-26,UAV
+TP2,Crawfordville,GB,UAV,0.0811881433223406,5,Crawfordville,2022-07-26,UAV
+TP1,Crawfordville,RF,UAV,0.323879614873733,1,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,PLSR,UAV,0.187087774998293,1,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LR,UAV,0.204221329392178,1,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LASSO,UAV,0.170976604382367,1,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,SVM,UAV,0.276258064826419,1,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,GB,UAV,0.181489337618665,1,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,RF,UAV,0.0833893573832884,2,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,PLSR,UAV,0.108341414093943,2,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LR,UAV,0.119171747350407,2,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LASSO,UAV,0.0752733519564883,2,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,SVM,UAV,0.0365187111342881,2,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,GB,UAV,0.0259192411854422,2,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,RF,UAV,0.00366189721456437,3,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,PLSR,UAV,6.05514696555272E-05,3,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LR,UAV,0.0537519095768575,3,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LASSO,UAV,0.0102392336764895,3,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,SVM,UAV,0.00053152700661528,3,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,GB,UAV,0.000993694751899435,3,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,RF,UAV,0.0474962387301268,4,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,PLSR,UAV,0.0554125309916113,4,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LR,UAV,0.0710024256155424,4,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LASSO,UAV,,4,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,SVM,UAV,0.00347242892987474,4,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,GB,UAV,0.0704062031250996,4,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,RF,UAV,0.163665059045057,5,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,PLSR,UAV,0.19756096300386,5,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LR,UAV,0.196267243245218,5,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,LASSO,UAV,0.196375685684049,5,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,SVM,UAV,0.191850731443651,5,Crawfordville,2022-07-12,UAV
+TP1,Crawfordville,GB,UAV,0.20217081482599,5,Crawfordville,2022-07-12,UAV
+TP1,Lincoln,RF,Satellite,0.365467027108613,1,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,PSLR,Satellite,0.340090365564512,1,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LR,Satellite,0.323659894300921,1,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LASSO,Satellite,,1,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,SVM,Satellite,0.382987691172572,1,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,GB,Satellite,0.32259115171749,1,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,RF,Satellite,0.335588566726095,2,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,PSLR,Satellite,0.305063390151199,2,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LR,Satellite,0.0514652662364408,2,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LASSO,Satellite,0.33319047703443,2,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,SVM,Satellite,0.283692454427992,2,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,GB,Satellite,0.316201160422746,2,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,RF,Satellite,0.583015390794403,3,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,PSLR,Satellite,0.494350756050546,3,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LR,Satellite,0.336308045327644,3,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LASSO,Satellite,0.478432533305062,3,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,SVM,Satellite,0.434649785897501,3,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,GB,Satellite,0.58835555487044,3,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,RF,Satellite,0.308066459776332,4,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,PSLR,Satellite,0.32772571471192,4,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LR,Satellite,0.197975818801328,4,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LASSO,Satellite,,4,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,SVM,Satellite,0.245620118070835,4,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,GB,Satellite,0.28260561369089,4,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,RF,Satellite,0.197469089513029,5,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,PSLR,Satellite,0.194876089036674,5,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LR,Satellite,0.192003402180848,5,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,LASSO,Satellite,,5,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,SVM,Satellite,0.146038462964734,5,Lincoln,2022-07-18,Satellite
+TP1,Lincoln,GB,Satellite,0.215965756076207,5,Lincoln,2022-07-18,Satellite
+TP2,Lincoln,RF,Satellite,0.433519128372613,1,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,PSLR,Satellite,0.249656156816479,1,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LR,Satellite,1.76458247509268E-05,1,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LASSO,Satellite,0.43028527792274,1,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,SVM,Satellite,0.415480845910185,1,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,GB,Satellite,0.354840345658307,1,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,RF,Satellite,0.383528290929117,2,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,PSLR,Satellite,0.397957543246801,2,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LR,Satellite,0.125105387504595,2,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LASSO,Satellite,0.399699812710325,2,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,SVM,Satellite,0.308641403223259,2,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,GB,Satellite,0.365533495573809,2,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,RF,Satellite,0.437082920910713,3,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,PSLR,Satellite,0.396957150885394,3,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LR,Satellite,0.0143754219630442,3,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LASSO,Satellite,0.391076448479267,3,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,SVM,Satellite,0.361039000552476,3,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,GB,Satellite,0.418330506754575,3,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,RF,Satellite,0.29798371824934,4,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,PSLR,Satellite,0.270716110740479,4,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LR,Satellite,0.0749535223155351,4,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LASSO,Satellite,0.171503746556173,4,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,SVM,Satellite,0.276072658607798,4,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,GB,Satellite,0.263654886417541,4,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,RF,Satellite,0.352848309636205,5,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,PSLR,Satellite,0.381198124672114,5,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LR,Satellite,0.251490871996318,5,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,LASSO,Satellite,0.388602573948981,5,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,SVM,Satellite,0.256236055226572,5,Lincoln,2022-08-06,Satellite
+TP2,Lincoln,GB,Satellite,0.333807175868901,5,Lincoln,2022-08-06,Satellite
+TP4,Lincoln,RF,Satellite,0.43273066683985,1,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,PSLR,Satellite,0.474910767782073,1,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LR,Satellite,0.130107033805288,1,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LASSO,Satellite,0.41250860720859,1,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,SVM,Satellite,0.423006745700412,1,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,GB,Satellite,0.358082016389863,1,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,RF,Satellite,0.500710959553463,2,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,PSLR,Satellite,0.523769814824914,2,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LR,Satellite,0.372560451619124,2,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LASSO,Satellite,0.47976847967296,2,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,SVM,Satellite,0.470113863982373,2,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,GB,Satellite,0.506315455726187,2,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,RF,Satellite,0.550928593245634,3,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,PSLR,Satellite,0.52781871181471,3,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LR,Satellite,0.153949146064211,3,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LASSO,Satellite,,3,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,SVM,Satellite,0.476496549208802,3,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,GB,Satellite,0.408246003667788,3,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,RF,Satellite,0.283829025640981,4,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,PSLR,Satellite,0.297954058015635,4,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LR,Satellite,0.0897642214606468,4,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LASSO,Satellite,,4,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,SVM,Satellite,0.233803619420047,4,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,GB,Satellite,0.236830689010672,4,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,RF,Satellite,0.246920157840257,5,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,PSLR,Satellite,0.310283832048458,5,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LR,Satellite,0.259227767388006,5,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,LASSO,Satellite,,5,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,SVM,Satellite,0.166753469293605,5,Lincoln,2022-09-11,Satellite
+TP4,Lincoln,GB,Satellite,0.249498728747531,5,Lincoln,2022-09-11,Satellite
+TP3,Lincoln,RF,Satellite,0.415234528715529,1,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,PSLR,Satellite,0.327571189048207,1,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LR,Satellite,0.190083727501442,1,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LASSO,Satellite,,1,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,SVM,Satellite,0.290959055318863,1,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,GB,Satellite,0.385314865526934,1,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,RF,Satellite,0.33141659996064,2,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,PSLR,Satellite,0.369855453495737,2,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LR,Satellite,0.123588364687555,2,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LASSO,Satellite,,2,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,SVM,Satellite,0.355477778494772,2,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,GB,Satellite,0.253923994749983,2,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,RF,Satellite,0.409704614824827,3,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,PSLR,Satellite,0.00336695543402335,3,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LR,Satellite,0.0208076188247009,3,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LASSO,Satellite,,3,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,SVM,Satellite,0.472654574819559,3,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,GB,Satellite,0.36914944583949,3,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,RF,Satellite,0.153575139458931,4,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,PSLR,Satellite,0.166877329954465,4,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LR,Satellite,0.0200793278040891,4,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LASSO,Satellite,0.0949552167299619,4,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,SVM,Satellite,0.16705915370359,4,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,GB,Satellite,0.161436904072413,4,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,RF,Satellite,0.113973436927275,5,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,PSLR,Satellite,0.151954686935294,5,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LR,Satellite,0.00875448464925522,5,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,LASSO,Satellite,,5,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,SVM,Satellite,0.129288971430119,5,Lincoln,2022-09-03,Satellite
+TP3,Lincoln,GB,Satellite,0.100238482840305,5,Lincoln,2022-09-03,Satellite
+TP6,Lincoln,RF,Satellite,0.407673967812513,1,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,PSLR,Satellite,0.456499681493476,1,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LR,Satellite,0.429869882021289,1,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LASSO,Satellite,,1,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,SVM,Satellite,0.358025954625447,1,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,GB,Satellite,0.370404557850025,1,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,RF,Satellite,0.430493623265641,2,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,PSLR,Satellite,0.290409849732397,2,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LR,Satellite,0.0120016643191794,2,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LASSO,Satellite,,2,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,SVM,Satellite,0.450240259006968,2,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,GB,Satellite,0.404523931695602,2,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,RF,Satellite,0.4070196685219,3,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,PSLR,Satellite,0.422698229170647,3,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LR,Satellite,0.0572875051175876,3,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LASSO,Satellite,,3,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,SVM,Satellite,0.383703712245957,3,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,GB,Satellite,0.293659680044448,3,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,RF,Satellite,0.419486698446015,4,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,PSLR,Satellite,0.298354049330025,4,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LR,Satellite,0.159836473174897,4,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LASSO,Satellite,,4,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,SVM,Satellite,0.388793862973983,4,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,GB,Satellite,0.41086686246545,4,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,RF,Satellite,0.298772286479309,5,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,PSLR,Satellite,0.301898654939089,5,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LR,Satellite,0.289211116239486,5,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,LASSO,Satellite,0.301874495460137,5,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,SVM,Satellite,0.275021098689853,5,Lincoln,2022-09-27,Satellite
+TP6,Lincoln,GB,Satellite,0.207782310811655,5,Lincoln,2022-09-27,Satellite
+TP5,Lincoln,RF,Satellite,0.458648844200188,1,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,PSLR,Satellite,0.447297559148654,1,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LR,Satellite,0.186638293566648,1,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LASSO,Satellite,,1,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,SVM,Satellite,0.38282462723262,1,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,GB,Satellite,0.417109404449206,1,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,RF,Satellite,0.468911410673784,2,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,PSLR,Satellite,0.44369930236238,2,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LR,Satellite,0.144515548256261,2,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LASSO,Satellite,,2,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,SVM,Satellite,0.470473564130068,2,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,GB,Satellite,0.417555598233294,2,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,RF,Satellite,0.395982049680026,3,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,PSLR,Satellite,0.385849340872272,3,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LR,Satellite,0.346036019681978,3,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LASSO,Satellite,0.404116161236412,3,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,SVM,Satellite,0.336880181068186,3,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,GB,Satellite,0.352259972446737,3,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,RF,Satellite,0.300663560121088,4,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,PSLR,Satellite,0.361506315201992,4,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LR,Satellite,0.0027383064594534,4,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LASSO,Satellite,,4,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,SVM,Satellite,0.309243758050017,4,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,GB,Satellite,0.269624894162717,4,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,RF,Satellite,0.325964914413059,5,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,PSLR,Satellite,0.315255286492444,5,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LR,Satellite,0.00259840703133365,5,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,LASSO,Satellite,,5,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,SVM,Satellite,0.30910075168146,5,Lincoln,2022-09-19,Satellite
+TP5,Lincoln,GB,Satellite,0.356855031647054,5,Lincoln,2022-09-19,Satellite
+TP3,Lincoln,RF,UAV,0.355601614228568,1,Lincoln,2022-08-04,UAV
+TP3,Lincoln,PLSR,UAV,0.35242413350241,1,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LR,UAV,0.294809905853551,1,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LASSO,UAV,0.320907112751951,1,Lincoln,2022-08-04,UAV
+TP3,Lincoln,SVM,UAV,0.376077117709895,1,Lincoln,2022-08-04,UAV
+TP3,Lincoln,GB,UAV,0.33101799856114,1,Lincoln,2022-08-04,UAV
+TP3,Lincoln,RF,UAV,0.568830936519538,2,Lincoln,2022-08-04,UAV
+TP3,Lincoln,PLSR,UAV,0.48935848269547,2,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LR,UAV,0.444482197133508,2,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LASSO,UAV,0.502294359519707,2,Lincoln,2022-08-04,UAV
+TP3,Lincoln,SVM,UAV,0.489204735932309,2,Lincoln,2022-08-04,UAV
+TP3,Lincoln,GB,UAV,0.529517227233039,2,Lincoln,2022-08-04,UAV
+TP3,Lincoln,RF,UAV,0.40841205023124,3,Lincoln,2022-08-04,UAV
+TP3,Lincoln,PLSR,UAV,0.431383710896523,3,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LR,UAV,0.432540511658295,3,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LASSO,UAV,0.433288628611101,3,Lincoln,2022-08-04,UAV
+TP3,Lincoln,SVM,UAV,0.416726411527731,3,Lincoln,2022-08-04,UAV
+TP3,Lincoln,GB,UAV,0.324724284037173,3,Lincoln,2022-08-04,UAV
+TP3,Lincoln,RF,UAV,0.276448235966034,4,Lincoln,2022-08-04,UAV
+TP3,Lincoln,PLSR,UAV,0.334186309463154,4,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LR,UAV,0.335773158454732,4,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LASSO,UAV,0.273553986624219,4,Lincoln,2022-08-04,UAV
+TP3,Lincoln,SVM,UAV,0.200889161812178,4,Lincoln,2022-08-04,UAV
+TP3,Lincoln,GB,UAV,0.297693997262895,4,Lincoln,2022-08-04,UAV
+TP3,Lincoln,RF,UAV,0.292638737146831,5,Lincoln,2022-08-04,UAV
+TP3,Lincoln,PLSR,UAV,0.30442833995561,5,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LR,UAV,0.272934870523839,5,Lincoln,2022-08-04,UAV
+TP3,Lincoln,LASSO,UAV,0.31296258213893,5,Lincoln,2022-08-04,UAV
+TP3,Lincoln,SVM,UAV,0.24120024809898,5,Lincoln,2022-08-04,UAV
+TP3,Lincoln,GB,UAV,0.288222196441198,5,Lincoln,2022-08-04,UAV
+TP2,Lincoln,RF,UAV,0.3333872813796,1,Lincoln,2022-07-28,UAV
+TP2,Lincoln,PLSR,UAV,0.351075225689724,1,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LR,UAV,0.341680635259519,1,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LASSO,UAV,0.359585536123566,1,Lincoln,2022-07-28,UAV
+TP2,Lincoln,SVM,UAV,0.335298366250395,1,Lincoln,2022-07-28,UAV
+TP2,Lincoln,GB,UAV,0.276319381637638,1,Lincoln,2022-07-28,UAV
+TP2,Lincoln,RF,UAV,0.615545396691571,2,Lincoln,2022-07-28,UAV
+TP2,Lincoln,PLSR,UAV,0.589597278704758,2,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LR,UAV,0.4824550028252,2,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LASSO,UAV,0.560948445906485,2,Lincoln,2022-07-28,UAV
+TP2,Lincoln,SVM,UAV,0.537511833738775,2,Lincoln,2022-07-28,UAV
+TP2,Lincoln,GB,UAV,0.579397237656423,2,Lincoln,2022-07-28,UAV
+TP2,Lincoln,RF,UAV,0.436869316767514,3,Lincoln,2022-07-28,UAV
+TP2,Lincoln,PLSR,UAV,0.416559375274388,3,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LR,UAV,0.427664957077039,3,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LASSO,UAV,0.427704111785876,3,Lincoln,2022-07-28,UAV
+TP2,Lincoln,SVM,UAV,0.444471879228687,3,Lincoln,2022-07-28,UAV
+TP2,Lincoln,GB,UAV,0.393267416235179,3,Lincoln,2022-07-28,UAV
+TP2,Lincoln,RF,UAV,0.414463593033346,4,Lincoln,2022-07-28,UAV
+TP2,Lincoln,PLSR,UAV,0.40910972119414,4,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LR,UAV,0.404505593458175,4,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LASSO,UAV,0.42089527558458,4,Lincoln,2022-07-28,UAV
+TP2,Lincoln,SVM,UAV,0.311972038825952,4,Lincoln,2022-07-28,UAV
+TP2,Lincoln,GB,UAV,0.408540727094489,4,Lincoln,2022-07-28,UAV
+TP2,Lincoln,RF,UAV,0.408745700900105,5,Lincoln,2022-07-28,UAV
+TP2,Lincoln,PLSR,UAV,0.442056549963014,5,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LR,UAV,0.505844067546832,5,Lincoln,2022-07-28,UAV
+TP2,Lincoln,LASSO,UAV,0.485884650835789,5,Lincoln,2022-07-28,UAV
+TP2,Lincoln,SVM,UAV,0.384927343055611,5,Lincoln,2022-07-28,UAV
+TP2,Lincoln,GB,UAV,0.345160481242529,5,Lincoln,2022-07-28,UAV
+TP1,Lincoln,RF,UAV,0.262430237246116,1,Lincoln,2022-07-13,UAV
+TP1,Lincoln,PLSR,UAV,0.379201245572543,1,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LR,UAV,0.302345090728609,1,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LASSO,UAV,0.386837312616646,1,Lincoln,2022-07-13,UAV
+TP1,Lincoln,SVM,UAV,0.296978742026216,1,Lincoln,2022-07-13,UAV
+TP1,Lincoln,GB,UAV,0.187341075081294,1,Lincoln,2022-07-13,UAV
+TP1,Lincoln,RF,UAV,0.404490014624769,2,Lincoln,2022-07-13,UAV
+TP1,Lincoln,PLSR,UAV,0.492162277381774,2,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LR,UAV,0.492162277381794,2,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LASSO,UAV,0.486344710732695,2,Lincoln,2022-07-13,UAV
+TP1,Lincoln,SVM,UAV,0.390354933337906,2,Lincoln,2022-07-13,UAV
+TP1,Lincoln,GB,UAV,0.33366665005312,2,Lincoln,2022-07-13,UAV
+TP1,Lincoln,RF,UAV,0.329083116919045,3,Lincoln,2022-07-13,UAV
+TP1,Lincoln,PLSR,UAV,0.373819870895478,3,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LR,UAV,0.369527201396313,3,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LASSO,UAV,0.416061035049763,3,Lincoln,2022-07-13,UAV
+TP1,Lincoln,SVM,UAV,0.326282708356023,3,Lincoln,2022-07-13,UAV
+TP1,Lincoln,GB,UAV,0.251802957636986,3,Lincoln,2022-07-13,UAV
+TP1,Lincoln,RF,UAV,0.354579743434841,4,Lincoln,2022-07-13,UAV
+TP1,Lincoln,PLSR,UAV,0.430113792648116,4,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LR,UAV,0.431266737736211,4,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LASSO,UAV,0.432254491499455,4,Lincoln,2022-07-13,UAV
+TP1,Lincoln,SVM,UAV,0.317721777954982,4,Lincoln,2022-07-13,UAV
+TP1,Lincoln,GB,UAV,0.280116110004334,4,Lincoln,2022-07-13,UAV
+TP1,Lincoln,RF,UAV,0.378948434769593,5,Lincoln,2022-07-13,UAV
+TP1,Lincoln,PLSR,UAV,0.397984692189581,5,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LR,UAV,0.493400253236675,5,Lincoln,2022-07-13,UAV
+TP1,Lincoln,LASSO,UAV,0.481586488356089,5,Lincoln,2022-07-13,UAV
+TP1,Lincoln,SVM,UAV,0.392524077785939,5,Lincoln,2022-07-13,UAV
+TP1,Lincoln,GB,UAV,0.398984743565425,5,Lincoln,2022-07-13,UAV
+TP1,Missouri Valley,RF,Satellite,0.137043187243622,1,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,PSLR,Satellite,0.155359074903777,1,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LR,Satellite,0.0697072693879105,1,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LASSO,Satellite,,1,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,SVM,Satellite,0.0286549889232557,1,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,GB,Satellite,0.0810066856068304,1,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,RF,Satellite,0.0798767502560958,2,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,PSLR,Satellite,0.0149443187681257,2,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LR,Satellite,0.027963328372143,2,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LASSO,Satellite,,2,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,SVM,Satellite,0.0435114401503966,2,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,GB,Satellite,0.0470959613151148,2,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,RF,Satellite,0.124335100610862,3,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,PSLR,Satellite,0.030856782020037,3,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LR,Satellite,0.0727093508120494,3,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LASSO,Satellite,,3,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,SVM,Satellite,0.141299386730077,3,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,GB,Satellite,0.21581519356972,3,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,RF,Satellite,0.0775782370507837,4,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,PSLR,Satellite,0.0984199554338231,4,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LR,Satellite,0.0102405742700974,4,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LASSO,Satellite,,4,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,SVM,Satellite,0.0327885829933743,4,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,GB,Satellite,0.0951226810611654,4,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,RF,Satellite,0.243044071962789,5,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,PSLR,Satellite,0.247597323417377,5,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LR,Satellite,0.0770001798410959,5,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,LASSO,Satellite,,5,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,SVM,Satellite,0.0953903348015043,5,Missouri Valley,2022-07-13,Satellite
+TP1,Missouri Valley,GB,Satellite,0.0927425884807626,5,Missouri Valley,2022-07-13,Satellite
+TP2,Missouri Valley,RF,Satellite,0.232697629748667,1,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,PSLR,Satellite,0.345985144472388,1,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LR,Satellite,0.0702071855744057,1,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LASSO,Satellite,,1,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,SVM,Satellite,0.117642349875566,1,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,GB,Satellite,0.0993401356203904,1,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,RF,Satellite,0.0427422182131289,2,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,PSLR,Satellite,0.0406407691205358,2,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LR,Satellite,0.0279581306561964,2,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LASSO,Satellite,0.0347864689999703,2,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,SVM,Satellite,0.026523509399263,2,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,GB,Satellite,0.0289729150724695,2,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,RF,Satellite,0.133107653334156,3,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,PSLR,Satellite,0.154381142118413,3,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LR,Satellite,0.0960700228847606,3,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LASSO,Satellite,,3,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,SVM,Satellite,0.171937696451435,3,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,GB,Satellite,0.15274650129094,3,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,RF,Satellite,0.00610861161907867,4,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,PSLR,Satellite,0.000185315476594285,4,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LR,Satellite,0.00475128964109022,4,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LASSO,Satellite,,4,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,SVM,Satellite,0.0107070675005037,4,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,GB,Satellite,0.0123901898841889,4,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,RF,Satellite,0.387827648962673,5,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,PSLR,Satellite,0.262509411951889,5,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LR,Satellite,4.86540257825146E-05,5,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,LASSO,Satellite,,5,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,SVM,Satellite,0.411020641690763,5,Missouri Valley,2022-07-21,Satellite
+TP2,Missouri Valley,GB,Satellite,0.377871414340706,5,Missouri Valley,2022-07-21,Satellite
+TP4,Missouri Valley,RF,Satellite,0.344164633744492,1,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,PSLR,Satellite,0.313778322079216,1,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LR,Satellite,0.0115803810332028,1,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LASSO,Satellite,,1,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,SVM,Satellite,0.33395203576041,1,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,GB,Satellite,0.30060468358129,1,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,RF,Satellite,0.543546955644779,2,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,PSLR,Satellite,0.371779431539368,2,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LR,Satellite,0.0857795024650174,2,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LASSO,Satellite,,2,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,SVM,Satellite,0.477979205617076,2,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,GB,Satellite,0.487386396945189,2,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,RF,Satellite,0.0214209079397378,3,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,PSLR,Satellite,0.0700859369811736,3,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LR,Satellite,0.012309123356842,3,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LASSO,Satellite,,3,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,SVM,Satellite,0.0167882817986403,3,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,GB,Satellite,0.0105118411802244,3,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,RF,Satellite,0.0925595495946837,4,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,PSLR,Satellite,0.172269623307405,4,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LR,Satellite,0.0973206371613546,4,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LASSO,Satellite,,4,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,SVM,Satellite,0.137684232669682,4,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,GB,Satellite,0.189477629095732,4,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,RF,Satellite,0.10537600998966,5,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,PSLR,Satellite,0.0872607215464026,5,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LR,Satellite,0.0938656577749284,5,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,LASSO,Satellite,0.095112460039109,5,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,SVM,Satellite,0.11676088662085,5,Missouri Valley,2022-09-03,Satellite
+TP4,Missouri Valley,GB,Satellite,0.0770892725518558,5,Missouri Valley,2022-09-03,Satellite
+TP3,Missouri Valley,RF,Satellite,0.438436324821054,1,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,PSLR,Satellite,0.409568514915935,1,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LR,Satellite,0.411740519602028,1,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LASSO,Satellite,,1,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,SVM,Satellite,0.318467342765441,1,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,GB,Satellite,0.382509079391005,1,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,RF,Satellite,0.500745547996931,2,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,PSLR,Satellite,0.359692248501996,2,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LR,Satellite,0.24456564218224,2,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LASSO,Satellite,0.432764751445912,2,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,SVM,Satellite,0.426557804553957,2,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,GB,Satellite,0.447383416050494,2,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,RF,Satellite,0.557831404644987,3,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,PSLR,Satellite,0.494362527854155,3,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LR,Satellite,0.236901651126604,3,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LASSO,Satellite,,3,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,SVM,Satellite,0.543002292475207,3,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,GB,Satellite,0.564423404550991,3,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,RF,Satellite,0.201359745560731,4,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,PSLR,Satellite,0.190556492024901,4,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LR,Satellite,0.024454835297684,4,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LASSO,Satellite,,4,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,SVM,Satellite,0.0985100806401111,4,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,GB,Satellite,0.136575358491194,4,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,RF,Satellite,0.554448528253493,5,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,PSLR,Satellite,0.405652050798666,5,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LR,Satellite,0.0776037442079234,5,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,LASSO,Satellite,,5,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,SVM,Satellite,0.621411596134865,5,Missouri Valley,2022-08-08,Satellite
+TP3,Missouri Valley,GB,Satellite,0.56219146759612,5,Missouri Valley,2022-08-08,Satellite
+TP6,Missouri Valley,RF,Satellite,0.0526871687822954,1,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,PSLR,Satellite,0.149121632270217,1,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LR,Satellite,0.126135754326641,1,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LASSO,Satellite,,1,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,SVM,Satellite,0.061163195233679,1,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,GB,Satellite,0.0691616467715262,1,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,RF,Satellite,0.181330692177997,2,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,PSLR,Satellite,0.0828234850847838,2,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LR,Satellite,0.204758011893728,2,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LASSO,Satellite,,2,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,SVM,Satellite,0.108316432717645,2,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,GB,Satellite,0.205969626620534,2,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,RF,Satellite,0.000713680842728508,3,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,PSLR,Satellite,0.0124698097847331,3,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LR,Satellite,0.148082775700052,3,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LASSO,Satellite,,3,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,SVM,Satellite,0.038749688229375,3,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,GB,Satellite,0.00553696929924555,3,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,RF,Satellite,0.00415525037304964,4,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,PSLR,Satellite,0.0863592932794018,4,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LR,Satellite,0.0673888298661845,4,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LASSO,Satellite,,4,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,SVM,Satellite,0.027373705365802,4,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,GB,Satellite,0.0369020483175327,4,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,RF,Satellite,0.0528144027486007,5,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,PSLR,Satellite,0.0702653450995239,5,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LR,Satellite,0.0104439620049621,5,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,LASSO,Satellite,,5,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,SVM,Satellite,0.0399663170589162,5,Missouri Valley,2022-09-19,Satellite
+TP6,Missouri Valley,GB,Satellite,9.56764187604032E-07,5,Missouri Valley,2022-09-19,Satellite
+TP5,Missouri Valley,RF,Satellite,0.364024462723123,1,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,PSLR,Satellite,0.270950800787799,1,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LR,Satellite,0.0515442408654524,1,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LASSO,Satellite,0.181588285923722,1,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,SVM,Satellite,0.312288968686753,1,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,GB,Satellite,0.228893416648518,1,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,RF,Satellite,0.395611064866109,2,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,PSLR,Satellite,0.261598136539731,2,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LR,Satellite,0.0955304141456662,2,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LASSO,Satellite,,2,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,SVM,Satellite,0.275258058980455,2,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,GB,Satellite,0.244977712971081,2,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,RF,Satellite,0.00672064787796715,3,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,PSLR,Satellite,0.00542823425614702,3,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LR,Satellite,0.00111395530670794,3,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LASSO,Satellite,,3,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,SVM,Satellite,0.0124818913014257,3,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,GB,Satellite,0.00311840733884768,3,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,RF,Satellite,0.0807783867783144,4,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,PSLR,Satellite,0.235432379286269,4,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LR,Satellite,0.000270748915398032,4,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LASSO,Satellite,,4,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,SVM,Satellite,0.0634460123238261,4,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,GB,Satellite,0.0601240519978935,4,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,RF,Satellite,0.0415946941051829,5,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,PSLR,Satellite,0.0967194930197578,5,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LR,Satellite,0.0674240229706264,5,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,LASSO,Satellite,,5,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,SVM,Satellite,0.0488710342030828,5,Missouri Valley,2022-09-11,Satellite
+TP5,Missouri Valley,GB,Satellite,0.116525139345542,5,Missouri Valley,2022-09-11,Satellite
+TP3,Missouri Valley,RF,UAV,0.484082411411255,1,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,PLSR,UAV,0.270455550913033,1,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LR,UAV,0.341551405111887,1,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LASSO,UAV,0.375815366494995,1,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,SVM,UAV,0.393789516141926,1,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,GB,UAV,0.337690602916069,1,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,RF,UAV,0.529846007014799,2,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,PLSR,UAV,0.4472483964094,2,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LR,UAV,0.485893472833755,2,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LASSO,UAV,0.575351187997517,2,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,SVM,UAV,0.512176603642331,2,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,GB,UAV,0.513183647417914,2,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,RF,UAV,0.323970948530894,3,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,PLSR,UAV,0.390047689897801,3,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LR,UAV,0.201965679979441,3,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LASSO,UAV,0.438144080681814,3,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,SVM,UAV,0.330784823283045,3,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,GB,UAV,0.212824410372828,3,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,RF,UAV,0.19972753085014,4,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,PLSR,UAV,0.348667269685894,4,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LR,UAV,0.0153398902137377,4,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LASSO,UAV,0.275415608030473,4,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,SVM,UAV,0.114507565035356,4,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,GB,UAV,0.194524446074788,4,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,RF,UAV,0.541158620741415,5,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,PLSR,UAV,0.164801941095545,5,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LR,UAV,0.149436428898439,5,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,LASSO,UAV,0.402592173524927,5,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,SVM,UAV,0.511326808192865,5,Missouri Valley,2022-08-10,UAV
+TP3,Missouri Valley,GB,UAV,0.493224100238506,5,Missouri Valley,2022-08-10,UAV
+TP2,Missouri Valley,RF,UAV,0.131911307511859,1,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,PLSR,UAV,0.355628560458503,1,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LR,UAV,0.416025079143118,1,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LASSO,UAV,0.417455024721543,1,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,SVM,UAV,0.145871508390849,1,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,GB,UAV,0.0898711953149673,1,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,RF,UAV,0.146284523539064,2,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,PLSR,UAV,0.110194957237887,2,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LR,UAV,0.276962741636017,2,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LASSO,UAV,0.265405021598562,2,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,SVM,UAV,0.156399424565256,2,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,GB,UAV,0.0686664456886273,2,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,RF,UAV,0.250993914773328,3,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,PLSR,UAV,0.133308886849665,3,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LR,UAV,0.365698016905933,3,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LASSO,UAV,0.388613829979673,3,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,SVM,UAV,0.292242257823871,3,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,GB,UAV,0.156713960867743,3,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,RF,UAV,0.078938287520021,4,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,PLSR,UAV,0.121828772145289,4,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LR,UAV,0.116671953641056,4,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LASSO,UAV,0.117578534998489,4,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,SVM,UAV,0.0844733575557168,4,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,GB,UAV,0.117078422269945,4,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,RF,UAV,0.29335516364076,5,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,PLSR,UAV,0.234356010986655,5,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LR,UAV,0.435219194149895,5,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,LASSO,UAV,0.241743293917865,5,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,SVM,UAV,0.335779054057131,5,Missouri Valley,2022-07-27,UAV
+TP2,Missouri Valley,GB,UAV,0.353442828460991,5,Missouri Valley,2022-07-27,UAV
+TP1,Missouri Valley,RF,UAV,0.133130297310232,1,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,PLSR,UAV,0.362749175228982,1,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LR,UAV,0.376541228167602,1,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LASSO,UAV,0.305876419081552,1,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,SVM,UAV,0.183062329311783,1,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,GB,UAV,0.157999945246518,1,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,RF,UAV,0.152827763069786,2,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,PLSR,UAV,0.12455840986088,2,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LR,UAV,0.124037714587272,2,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LASSO,UAV,0.11268370934275,2,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,SVM,UAV,0.158553412467095,2,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,GB,UAV,0.0893916719467093,2,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,RF,UAV,0.0971036661660824,3,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,PLSR,UAV,0.106249635532405,3,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LR,UAV,0.270953407313967,3,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LASSO,UAV,0.11033523867441,3,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,SVM,UAV,0.22582617068202,3,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,GB,UAV,0.16060633144604,3,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,RF,UAV,0.00090295952196638,4,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,PLSR,UAV,0.125360867466889,4,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LR,UAV,0.239154080033626,4,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LASSO,UAV,0.275152516395465,4,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,SVM,UAV,0.00957583523665376,4,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,GB,UAV,0.00684600915763115,4,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,RF,UAV,0.0896988834354238,5,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,PLSR,UAV,0.178864675672553,5,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LR,UAV,0.184622062576197,5,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,LASSO,UAV,0.136458541480137,5,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,SVM,UAV,0.0733593286837642,5,Missouri Valley,2022-07-13,UAV
+TP1,Missouri Valley,GB,UAV,0.0979812113385878,5,Missouri Valley,2022-07-13,UAV
+TP1,Ames,RF,Satellite,0.0689459972658472,1,Ames,2022-07-15,Satellite
+TP1,Ames,PSLR,Satellite,0.128925535620142,1,Ames,2022-07-15,Satellite
+TP1,Ames,LR,Satellite,0.00889736037632993,1,Ames,2022-07-15,Satellite
+TP1,Ames,LASSO,Satellite,,1,Ames,2022-07-15,Satellite
+TP1,Ames,SVM,Satellite,0.0608279913273578,1,Ames,2022-07-15,Satellite
+TP1,Ames,GB,Satellite,0.0472131829713872,1,Ames,2022-07-15,Satellite
+TP1,Ames,RF,Satellite,0.00172170273636796,2,Ames,2022-07-15,Satellite
+TP1,Ames,PSLR,Satellite,0.0072753305590544,2,Ames,2022-07-15,Satellite
+TP1,Ames,LR,Satellite,0.0112072997455948,2,Ames,2022-07-15,Satellite
+TP1,Ames,LASSO,Satellite,,2,Ames,2022-07-15,Satellite
+TP1,Ames,SVM,Satellite,0.00421251489893057,2,Ames,2022-07-15,Satellite
+TP1,Ames,GB,Satellite,0.0133603987255991,2,Ames,2022-07-15,Satellite
+TP1,Ames,RF,Satellite,0.0164107335195786,3,Ames,2022-07-15,Satellite
+TP1,Ames,PSLR,Satellite,0.0778121103402262,3,Ames,2022-07-15,Satellite
+TP1,Ames,LR,Satellite,0.0186919119926434,3,Ames,2022-07-15,Satellite
+TP1,Ames,LASSO,Satellite,,3,Ames,2022-07-15,Satellite
+TP1,Ames,SVM,Satellite,0.00690661757279215,3,Ames,2022-07-15,Satellite
+TP1,Ames,GB,Satellite,0.0253679721345957,3,Ames,2022-07-15,Satellite
+TP1,Ames,RF,Satellite,0.0163481159039005,4,Ames,2022-07-15,Satellite
+TP1,Ames,PSLR,Satellite,0.0265122121811678,4,Ames,2022-07-15,Satellite
+TP1,Ames,LR,Satellite,0.016164561696103,4,Ames,2022-07-15,Satellite
+TP1,Ames,LASSO,Satellite,,4,Ames,2022-07-15,Satellite
+TP1,Ames,SVM,Satellite,0.0206342990147723,4,Ames,2022-07-15,Satellite
+TP1,Ames,GB,Satellite,0.0666559354877043,4,Ames,2022-07-15,Satellite
+TP1,Ames,RF,Satellite,0.0825551309749592,5,Ames,2022-07-15,Satellite
+TP1,Ames,PSLR,Satellite,0.191954290295955,5,Ames,2022-07-15,Satellite
+TP1,Ames,LR,Satellite,0.000642268352711734,5,Ames,2022-07-15,Satellite
+TP1,Ames,LASSO,Satellite,,5,Ames,2022-07-15,Satellite
+TP1,Ames,SVM,Satellite,0.0276057607924993,5,Ames,2022-07-15,Satellite
+TP1,Ames,GB,Satellite,0.0666468502226128,5,Ames,2022-07-15,Satellite
+TP2,Ames,RF,Satellite,0.209696902494952,1,Ames,2022-07-23,Satellite
+TP2,Ames,PSLR,Satellite,0.213715214163261,1,Ames,2022-07-23,Satellite
+TP2,Ames,LR,Satellite,0.00373166468519782,1,Ames,2022-07-23,Satellite
+TP2,Ames,LASSO,Satellite,0.22141012832441,1,Ames,2022-07-23,Satellite
+TP2,Ames,SVM,Satellite,0.144743552101359,1,Ames,2022-07-23,Satellite
+TP2,Ames,GB,Satellite,0.0916226367176165,1,Ames,2022-07-23,Satellite
+TP2,Ames,RF,Satellite,0.0975939840420973,2,Ames,2022-07-23,Satellite
+TP2,Ames,PSLR,Satellite,0.0787552781277396,2,Ames,2022-07-23,Satellite
+TP2,Ames,LR,Satellite,0.0108752971430125,2,Ames,2022-07-23,Satellite
+TP2,Ames,LASSO,Satellite,,2,Ames,2022-07-23,Satellite
+TP2,Ames,SVM,Satellite,0.0588432383920461,2,Ames,2022-07-23,Satellite
+TP2,Ames,GB,Satellite,0.0730829909142626,2,Ames,2022-07-23,Satellite
+TP2,Ames,RF,Satellite,0.185859586554306,3,Ames,2022-07-23,Satellite
+TP2,Ames,PSLR,Satellite,0.205318446291942,3,Ames,2022-07-23,Satellite
+TP2,Ames,LR,Satellite,0.0942449560807581,3,Ames,2022-07-23,Satellite
+TP2,Ames,LASSO,Satellite,,3,Ames,2022-07-23,Satellite
+TP2,Ames,SVM,Satellite,0.198450294419262,3,Ames,2022-07-23,Satellite
+TP2,Ames,GB,Satellite,0.109277697175299,3,Ames,2022-07-23,Satellite
+TP2,Ames,RF,Satellite,0.174824700855217,4,Ames,2022-07-23,Satellite
+TP2,Ames,PSLR,Satellite,0.145497023664539,4,Ames,2022-07-23,Satellite
+TP2,Ames,LR,Satellite,0.146439873349833,4,Ames,2022-07-23,Satellite
+TP2,Ames,LASSO,Satellite,,4,Ames,2022-07-23,Satellite
+TP2,Ames,SVM,Satellite,0.101968733723847,4,Ames,2022-07-23,Satellite
+TP2,Ames,GB,Satellite,0.0936299295080277,4,Ames,2022-07-23,Satellite
+TP2,Ames,RF,Satellite,0.0672747364411654,5,Ames,2022-07-23,Satellite
+TP2,Ames,PSLR,Satellite,0.000527905051088378,5,Ames,2022-07-23,Satellite
+TP2,Ames,LR,Satellite,0.00806283574164307,5,Ames,2022-07-23,Satellite
+TP2,Ames,LASSO,Satellite,,5,Ames,2022-07-23,Satellite
+TP2,Ames,SVM,Satellite,0.0211590888343119,5,Ames,2022-07-23,Satellite
+TP2,Ames,GB,Satellite,0.0641474366394405,5,Ames,2022-07-23,Satellite
+TP4,Ames,RF,Satellite,0.487617123604854,1,Ames,2022-08-31,Satellite
+TP4,Ames,PSLR,Satellite,0.425651554492309,1,Ames,2022-08-31,Satellite
+TP4,Ames,LR,Satellite,0.00878452297087845,1,Ames,2022-08-31,Satellite
+TP4,Ames,LASSO,Satellite,0.390664507639612,1,Ames,2022-08-31,Satellite
+TP4,Ames,SVM,Satellite,0.344534040516676,1,Ames,2022-08-31,Satellite
+TP4,Ames,GB,Satellite,0.458152995527672,1,Ames,2022-08-31,Satellite
+TP4,Ames,RF,Satellite,0.359435446933442,2,Ames,2022-08-31,Satellite
+TP4,Ames,PSLR,Satellite,0.392233859260638,2,Ames,2022-08-31,Satellite
+TP4,Ames,LR,Satellite,0.0132956075330203,2,Ames,2022-08-31,Satellite
+TP4,Ames,LASSO,Satellite,0.311542194299346,2,Ames,2022-08-31,Satellite
+TP4,Ames,SVM,Satellite,0.2524763871205,2,Ames,2022-08-31,Satellite
+TP4,Ames,GB,Satellite,0.284627154956662,2,Ames,2022-08-31,Satellite
+TP4,Ames,RF,Satellite,0.368794408830704,3,Ames,2022-08-31,Satellite
+TP4,Ames,PSLR,Satellite,0.309509474039991,3,Ames,2022-08-31,Satellite
+TP4,Ames,LR,Satellite,0.309303425922712,3,Ames,2022-08-31,Satellite
+TP4,Ames,LASSO,Satellite,0.309704889371002,3,Ames,2022-08-31,Satellite
+TP4,Ames,SVM,Satellite,0.358339986279689,3,Ames,2022-08-31,Satellite
+TP4,Ames,GB,Satellite,0.327866723496267,3,Ames,2022-08-31,Satellite
+TP4,Ames,RF,Satellite,0.347078941929511,4,Ames,2022-08-31,Satellite
+TP4,Ames,PSLR,Satellite,0.400960160377764,4,Ames,2022-08-31,Satellite
+TP4,Ames,LR,Satellite,0.00035690983462291,4,Ames,2022-08-31,Satellite
+TP4,Ames,LASSO,Satellite,0.421024411985255,4,Ames,2022-08-31,Satellite
+TP4,Ames,SVM,Satellite,0.341885013090228,4,Ames,2022-08-31,Satellite
+TP4,Ames,GB,Satellite,0.335672558567069,4,Ames,2022-08-31,Satellite
+TP4,Ames,RF,Satellite,0.191568530958726,5,Ames,2022-08-31,Satellite
+TP4,Ames,PSLR,Satellite,0.042729087784484,5,Ames,2022-08-31,Satellite
+TP4,Ames,LR,Satellite,0.0424517820553448,5,Ames,2022-08-31,Satellite
+TP4,Ames,LASSO,Satellite,,5,Ames,2022-08-31,Satellite
+TP4,Ames,SVM,Satellite,0.174857105687825,5,Ames,2022-08-31,Satellite
+TP4,Ames,GB,Satellite,0.220846895022907,5,Ames,2022-08-31,Satellite
+TP3,Ames,RF,Satellite,0.40562143689117,1,Ames,2022-08-10,Satellite
+TP3,Ames,PSLR,Satellite,0.45297222464609,1,Ames,2022-08-10,Satellite
+TP3,Ames,LR,Satellite,0.225120726450123,1,Ames,2022-08-10,Satellite
+TP3,Ames,LASSO,Satellite,0.464660445950661,1,Ames,2022-08-10,Satellite
+TP3,Ames,SVM,Satellite,0.308006440913209,1,Ames,2022-08-10,Satellite
+TP3,Ames,GB,Satellite,0.346266811655672,1,Ames,2022-08-10,Satellite
+TP3,Ames,RF,Satellite,0.354655201781,2,Ames,2022-08-10,Satellite
+TP3,Ames,PSLR,Satellite,0.0363824232638805,2,Ames,2022-08-10,Satellite
+TP3,Ames,LR,Satellite,0.113596521969849,2,Ames,2022-08-10,Satellite
+TP3,Ames,LASSO,Satellite,0.34462081366186,2,Ames,2022-08-10,Satellite
+TP3,Ames,SVM,Satellite,0.334468409884712,2,Ames,2022-08-10,Satellite
+TP3,Ames,GB,Satellite,0.360720887761411,2,Ames,2022-08-10,Satellite
+TP3,Ames,RF,Satellite,0.327135593395906,3,Ames,2022-08-10,Satellite
+TP3,Ames,PSLR,Satellite,0.363295721903357,3,Ames,2022-08-10,Satellite
+TP3,Ames,LR,Satellite,0.295873585405608,3,Ames,2022-08-10,Satellite
+TP3,Ames,LASSO,Satellite,,3,Ames,2022-08-10,Satellite
+TP3,Ames,SVM,Satellite,0.29593686259644,3,Ames,2022-08-10,Satellite
+TP3,Ames,GB,Satellite,0.382403775840119,3,Ames,2022-08-10,Satellite
+TP3,Ames,RF,Satellite,0.276881420635195,4,Ames,2022-08-10,Satellite
+TP3,Ames,PSLR,Satellite,0.232006303871947,4,Ames,2022-08-10,Satellite
+TP3,Ames,LR,Satellite,0.165160310442138,4,Ames,2022-08-10,Satellite
+TP3,Ames,LASSO,Satellite,,4,Ames,2022-08-10,Satellite
+TP3,Ames,SVM,Satellite,0.242647153887818,4,Ames,2022-08-10,Satellite
+TP3,Ames,GB,Satellite,0.244272929971398,4,Ames,2022-08-10,Satellite
+TP3,Ames,RF,Satellite,0.221416139111701,5,Ames,2022-08-10,Satellite
+TP3,Ames,PSLR,Satellite,0.326941753188414,5,Ames,2022-08-10,Satellite
+TP3,Ames,LR,Satellite,0.162026485413206,5,Ames,2022-08-10,Satellite
+TP3,Ames,LASSO,Satellite,,5,Ames,2022-08-10,Satellite
+TP3,Ames,SVM,Satellite,0.136368482982967,5,Ames,2022-08-10,Satellite
+TP3,Ames,GB,Satellite,0.233922001376859,5,Ames,2022-08-10,Satellite
+TP6,Ames,RF,Satellite,0.00252404156299283,1,Ames,2022-09-24,Satellite
+TP6,Ames,PSLR,Satellite,0.107691657995237,1,Ames,2022-09-24,Satellite
+TP6,Ames,LR,Satellite,0.0239951002525405,1,Ames,2022-09-24,Satellite
+TP6,Ames,LASSO,Satellite,8.43350898424585E-05,1,Ames,2022-09-24,Satellite
+TP6,Ames,SVM,Satellite,0.000753420733213733,1,Ames,2022-09-24,Satellite
+TP6,Ames,GB,Satellite,0.0136957567822702,1,Ames,2022-09-24,Satellite
+TP6,Ames,RF,Satellite,0.0944256172287941,2,Ames,2022-09-24,Satellite
+TP6,Ames,PSLR,Satellite,0.0442513031916502,2,Ames,2022-09-24,Satellite
+TP6,Ames,LR,Satellite,0.044943446465103,2,Ames,2022-09-24,Satellite
+TP6,Ames,LASSO,Satellite,0.000853637506213214,2,Ames,2022-09-24,Satellite
+TP6,Ames,SVM,Satellite,0.0702436139648963,2,Ames,2022-09-24,Satellite
+TP6,Ames,GB,Satellite,0.164713614797165,2,Ames,2022-09-24,Satellite
+TP6,Ames,RF,Satellite,0.0161582261057421,3,Ames,2022-09-24,Satellite
+TP6,Ames,PSLR,Satellite,0.002651509623566,3,Ames,2022-09-24,Satellite
+TP6,Ames,LR,Satellite,0.000771126375119307,3,Ames,2022-09-24,Satellite
+TP6,Ames,LASSO,Satellite,,3,Ames,2022-09-24,Satellite
+TP6,Ames,SVM,Satellite,0.00922840438357772,3,Ames,2022-09-24,Satellite
+TP6,Ames,GB,Satellite,0.0106906166635686,3,Ames,2022-09-24,Satellite
+TP6,Ames,RF,Satellite,0.0746074762846554,4,Ames,2022-09-24,Satellite
+TP6,Ames,PSLR,Satellite,0.0780305880363438,4,Ames,2022-09-24,Satellite
+TP6,Ames,LR,Satellite,0.0312824529954473,4,Ames,2022-09-24,Satellite
+TP6,Ames,LASSO,Satellite,,4,Ames,2022-09-24,Satellite
+TP6,Ames,SVM,Satellite,0.161843141985034,4,Ames,2022-09-24,Satellite
+TP6,Ames,GB,Satellite,0.0401251827330135,4,Ames,2022-09-24,Satellite
+TP6,Ames,RF,Satellite,0.10323898565945,5,Ames,2022-09-24,Satellite
+TP6,Ames,PSLR,Satellite,0.0265506429636987,5,Ames,2022-09-24,Satellite
+TP6,Ames,LR,Satellite,0.0121874828791295,5,Ames,2022-09-24,Satellite
+TP6,Ames,LASSO,Satellite,0.0793043084596499,5,Ames,2022-09-24,Satellite
+TP6,Ames,SVM,Satellite,0.0777994649791152,5,Ames,2022-09-24,Satellite
+TP6,Ames,GB,Satellite,0.0813202469601907,5,Ames,2022-09-24,Satellite
+TP5,Ames,RF,Satellite,0.28507433718116,1,Ames,2022-09-11,Satellite
+TP5,Ames,PSLR,Satellite,0.357379637466588,1,Ames,2022-09-11,Satellite
+TP5,Ames,LR,Satellite,0.148730056577147,1,Ames,2022-09-11,Satellite
+TP5,Ames,LASSO,Satellite,0.210941679698788,1,Ames,2022-09-11,Satellite
+TP5,Ames,SVM,Satellite,0.268637775392005,1,Ames,2022-09-11,Satellite
+TP5,Ames,GB,Satellite,0.32146750292058,1,Ames,2022-09-11,Satellite
+TP5,Ames,RF,Satellite,0.218798406000181,2,Ames,2022-09-11,Satellite
+TP5,Ames,PSLR,Satellite,0.191618066245644,2,Ames,2022-09-11,Satellite
+TP5,Ames,LR,Satellite,0.0127075988491754,2,Ames,2022-09-11,Satellite
+TP5,Ames,LASSO,Satellite,0.150286816912011,2,Ames,2022-09-11,Satellite
+TP5,Ames,SVM,Satellite,0.156566728305115,2,Ames,2022-09-11,Satellite
+TP5,Ames,GB,Satellite,0.296995535045961,2,Ames,2022-09-11,Satellite
+TP5,Ames,RF,Satellite,0.19500452871293,3,Ames,2022-09-11,Satellite
+TP5,Ames,PSLR,Satellite,0.297473731292702,3,Ames,2022-09-11,Satellite
+TP5,Ames,LR,Satellite,0.130880137476718,3,Ames,2022-09-11,Satellite
+TP5,Ames,LASSO,Satellite,0.128447414897201,3,Ames,2022-09-11,Satellite
+TP5,Ames,SVM,Satellite,0.157425016068897,3,Ames,2022-09-11,Satellite
+TP5,Ames,GB,Satellite,0.343528912484428,3,Ames,2022-09-11,Satellite
+TP5,Ames,RF,Satellite,0.265025748527828,4,Ames,2022-09-11,Satellite
+TP5,Ames,PSLR,Satellite,0.294944520453087,4,Ames,2022-09-11,Satellite
+TP5,Ames,LR,Satellite,0.0060711387864151,4,Ames,2022-09-11,Satellite
+TP5,Ames,LASSO,Satellite,0.173463591010379,4,Ames,2022-09-11,Satellite
+TP5,Ames,SVM,Satellite,0.268500253819633,4,Ames,2022-09-11,Satellite
+TP5,Ames,GB,Satellite,0.232340757083956,4,Ames,2022-09-11,Satellite
+TP5,Ames,RF,Satellite,0.0220519743833858,5,Ames,2022-09-11,Satellite
+TP5,Ames,PSLR,Satellite,0.113490265516009,5,Ames,2022-09-11,Satellite
+TP5,Ames,LR,Satellite,0.0554471127455858,5,Ames,2022-09-11,Satellite
+TP5,Ames,LASSO,Satellite,0.103949836699336,5,Ames,2022-09-11,Satellite
+TP5,Ames,SVM,Satellite,0.0173137575030645,5,Ames,2022-09-11,Satellite
+TP5,Ames,GB,Satellite,0.0310074461334995,5,Ames,2022-09-11,Satellite
+TP3,Ames,RF,UAV,0.491300696076261,1,Ames,2022-08-10,UAV
+TP3,Ames,PLSR,UAV,0.355330954994159,1,Ames,2022-08-10,UAV
+TP3,Ames,LR,UAV,0.181692506409129,1,Ames,2022-08-10,UAV
+TP3,Ames,LASSO,UAV,0.533908665316572,1,Ames,2022-08-10,UAV
+TP3,Ames,SVM,UAV,0.415802758214264,1,Ames,2022-08-10,UAV
+TP3,Ames,GB,UAV,0.465198700067657,1,Ames,2022-08-10,UAV
+TP3,Ames,RF,UAV,0.387560311671967,2,Ames,2022-08-10,UAV
+TP3,Ames,PLSR,UAV,0.377597026176119,2,Ames,2022-08-10,UAV
+TP3,Ames,LR,UAV,0.409862364159486,2,Ames,2022-08-10,UAV
+TP3,Ames,LASSO,UAV,0.465823328587564,2,Ames,2022-08-10,UAV
+TP3,Ames,SVM,UAV,0.370207633590524,2,Ames,2022-08-10,UAV
+TP3,Ames,GB,UAV,0.369509484625317,2,Ames,2022-08-10,UAV
+TP3,Ames,RF,UAV,0.424805314410238,3,Ames,2022-08-10,UAV
+TP3,Ames,PLSR,UAV,0.443284340010128,3,Ames,2022-08-10,UAV
+TP3,Ames,LR,UAV,0.0202772555943782,3,Ames,2022-08-10,UAV
+TP3,Ames,LASSO,UAV,0.486990009630708,3,Ames,2022-08-10,UAV
+TP3,Ames,SVM,UAV,0.424315196421123,3,Ames,2022-08-10,UAV
+TP3,Ames,GB,UAV,0.388416047416786,3,Ames,2022-08-10,UAV
+TP3,Ames,RF,UAV,0.286471707116315,4,Ames,2022-08-10,UAV
+TP3,Ames,PLSR,UAV,0.0880167550657675,4,Ames,2022-08-10,UAV
+TP3,Ames,LR,UAV,0.0880167550648107,4,Ames,2022-08-10,UAV
+TP3,Ames,LASSO,UAV,0.31965594510853,4,Ames,2022-08-10,UAV
+TP3,Ames,SVM,UAV,0.225985593814126,4,Ames,2022-08-10,UAV
+TP3,Ames,GB,UAV,0.32339699691202,4,Ames,2022-08-10,UAV
+TP3,Ames,RF,UAV,0.337795126200558,5,Ames,2022-08-10,UAV
+TP3,Ames,PLSR,UAV,0.436946728328882,5,Ames,2022-08-10,UAV
+TP3,Ames,LR,UAV,0.181832797796321,5,Ames,2022-08-10,UAV
+TP3,Ames,LASSO,UAV,0.450904973590727,5,Ames,2022-08-10,UAV
+TP3,Ames,SVM,UAV,0.322210764119735,5,Ames,2022-08-10,UAV
+TP3,Ames,GB,UAV,0.315286276027281,5,Ames,2022-08-10,UAV
+TP2,Ames,RF,UAV,0.262101839692564,1,Ames,2022-07-26,UAV
+TP2,Ames,PLSR,UAV,0.178658624537627,1,Ames,2022-07-26,UAV
+TP2,Ames,LR,UAV,0.232705531282127,1,Ames,2022-07-26,UAV
+TP2,Ames,LASSO,UAV,0.204386818319326,1,Ames,2022-07-26,UAV
+TP2,Ames,SVM,UAV,0.149057479152678,1,Ames,2022-07-26,UAV
+TP2,Ames,GB,UAV,0.191048364979306,1,Ames,2022-07-26,UAV
+TP2,Ames,RF,UAV,0.180222145323095,2,Ames,2022-07-26,UAV
+TP2,Ames,PLSR,UAV,0.22608968244886,2,Ames,2022-07-26,UAV
+TP2,Ames,LR,UAV,0.233991900148204,2,Ames,2022-07-26,UAV
+TP2,Ames,LASSO,UAV,0.248527996542697,2,Ames,2022-07-26,UAV
+TP2,Ames,SVM,UAV,0.190198402516034,2,Ames,2022-07-26,UAV
+TP2,Ames,GB,UAV,0.138429697976572,2,Ames,2022-07-26,UAV
+TP2,Ames,RF,UAV,0.138782102677938,3,Ames,2022-07-26,UAV
+TP2,Ames,PLSR,UAV,0.225304907034911,3,Ames,2022-07-26,UAV
+TP2,Ames,LR,UAV,0.224554992454842,3,Ames,2022-07-26,UAV
+TP2,Ames,LASSO,UAV,0.228959132457788,3,Ames,2022-07-26,UAV
+TP2,Ames,SVM,UAV,0.214955434434369,3,Ames,2022-07-26,UAV
+TP2,Ames,GB,UAV,0.103739549541464,3,Ames,2022-07-26,UAV
+TP2,Ames,RF,UAV,0.121312256665559,4,Ames,2022-07-26,UAV
+TP2,Ames,PLSR,UAV,0.157797569910821,4,Ames,2022-07-26,UAV
+TP2,Ames,LR,UAV,0.170119585007766,4,Ames,2022-07-26,UAV
+TP2,Ames,LASSO,UAV,0.171971827792217,4,Ames,2022-07-26,UAV
+TP2,Ames,SVM,UAV,0.102771623203463,4,Ames,2022-07-26,UAV
+TP2,Ames,GB,UAV,0.0703142311747926,4,Ames,2022-07-26,UAV
+TP2,Ames,RF,UAV,0.149913071707357,5,Ames,2022-07-26,UAV
+TP2,Ames,PLSR,UAV,0.091988711827049,5,Ames,2022-07-26,UAV
+TP2,Ames,LR,UAV,0.0971348090199702,5,Ames,2022-07-26,UAV
+TP2,Ames,LASSO,UAV,0.135946758119604,5,Ames,2022-07-26,UAV
+TP2,Ames,SVM,UAV,0.122847073538904,5,Ames,2022-07-26,UAV
+TP2,Ames,GB,UAV,0.114492954188369,5,Ames,2022-07-26,UAV
+TP1,Ames,RF,UAV,0.159334242915787,1,Ames,2022-07-12,UAV
+TP1,Ames,PLSR,UAV,0.153422621265018,1,Ames,2022-07-12,UAV
+TP1,Ames,LR,UAV,0.145298394910921,1,Ames,2022-07-12,UAV
+TP1,Ames,LASSO,UAV,0.163678051815298,1,Ames,2022-07-12,UAV
+TP1,Ames,SVM,UAV,0.147283638369446,1,Ames,2022-07-12,UAV
+TP1,Ames,GB,UAV,0.18844054150023,1,Ames,2022-07-12,UAV
+TP1,Ames,RF,UAV,0.0330985597874118,2,Ames,2022-07-12,UAV
+TP1,Ames,PLSR,UAV,0.0037097064287251,2,Ames,2022-07-12,UAV
+TP1,Ames,LR,UAV,0.0250766504654181,2,Ames,2022-07-12,UAV
+TP1,Ames,LASSO,UAV,0.021248301710177,2,Ames,2022-07-12,UAV
+TP1,Ames,SVM,UAV,0.0458275732527333,2,Ames,2022-07-12,UAV
+TP1,Ames,GB,UAV,0.032685292188961,2,Ames,2022-07-12,UAV
+TP1,Ames,RF,UAV,0.228475886479606,3,Ames,2022-07-12,UAV
+TP1,Ames,PLSR,UAV,0.126981734175232,3,Ames,2022-07-12,UAV
+TP1,Ames,LR,UAV,0.0571206884341499,3,Ames,2022-07-12,UAV
+TP1,Ames,LASSO,UAV,0.122517536142223,3,Ames,2022-07-12,UAV
+TP1,Ames,SVM,UAV,0.23287189452958,3,Ames,2022-07-12,UAV
+TP1,Ames,GB,UAV,0.164016451565307,3,Ames,2022-07-12,UAV
+TP1,Ames,RF,UAV,0.0118938068457743,4,Ames,2022-07-12,UAV
+TP1,Ames,PLSR,UAV,0.00157822475687027,4,Ames,2022-07-12,UAV
+TP1,Ames,LR,UAV,0.0609466237484125,4,Ames,2022-07-12,UAV
+TP1,Ames,LASSO,UAV,0.0389637216917082,4,Ames,2022-07-12,UAV
+TP1,Ames,SVM,UAV,0.00959406627266352,4,Ames,2022-07-12,UAV
+TP1,Ames,GB,UAV,0.0381866207002092,4,Ames,2022-07-12,UAV
+TP1,Ames,RF,UAV,0.172825667098091,5,Ames,2022-07-12,UAV
+TP1,Ames,PLSR,UAV,0.123127577038539,5,Ames,2022-07-12,UAV
+TP1,Ames,LR,UAV,0.153185417813015,5,Ames,2022-07-12,UAV
+TP1,Ames,LASSO,UAV,0.166969304386572,5,Ames,2022-07-12,UAV
+TP1,Ames,SVM,UAV,0.165748169138146,5,Ames,2022-07-12,UAV
+TP1,Ames,GB,UAV,0.157674566257876,5,Ames,2022-07-12,UAV
